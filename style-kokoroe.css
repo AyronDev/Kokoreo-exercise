@@ -1,0 +1,170 @@
+body{
+background: #6C74C3;
+}
+
+nav{
+  font-size: 1em;
+  margin: auto;
+  background-color: #404367;
+  padding: 10px;
+  border-radius: 5px;
+  width: 190px;
+  height: 800px;
+  text-align: center;
+  color: white;
+  font-family: cursive;
+}
+
+#mobile{
+  padding-bottom: 10px;
+}
+
+#list{
+  width: 210px;
+  height: 325px;
+  list-style-type: none;
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: -10px;
+  padding: 0px;
+}
+
+#list2{
+
+    width: 210px;
+    height: 248px;
+    list-style-type: none;
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    margin-left: -10px;
+    padding: 0px;
+}
+
+#list3{
+
+    width: 210px;
+    height: 155px;
+    list-style-type: none;
+    background: #545985;
+
+    margin-top: -4px;
+    margin-bottom: 0px;
+    margin-left: -10px;
+    padding: 0px;
+}
+
+#settingadd{
+  width: 210px;
+  height: 40px;
+  text-align: left;
+  margin-top: -1px;
+  margin-bottom: 0px;
+  margin-left: -10px;
+  padding-top: 3px;
+}
+
+ul li{
+  text-align: left;
+  padding-left: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background: #545985;
+}
+
+ul li:hover{
+  background: #404367;
+  border-left-width: 4px;
+  border-left-color: Dodgerblue;
+  border-left-style: solid;
+}
+
+.fa-cog:hover{
+  background: #545985;
+  border-top-color: Dodgerblue;
+  border-top-color: Dodgerblue;
+  border-top-style: solid;
+  border-top-width: 4px;
+}
+.fa-user-plus:hover{
+  background: #545985;
+  border-top-color: Dodgerblue;
+  border-top-style: solid;
+  border-top-width: 4px;
+}
+
+i.fas{
+  padding: 8px;
+}
+
+i.fab{
+  padding: 8px;
+}
+
+
+.fa-cog{
+  padding: 10px;
+  color: Dodgerblue;
+}
+
+.fa-user-plus{
+  color: Dodgerblue;
+}
+
+.fa-chevron-down{
+  color: grey;
+  padding : 15px;
+}
+
+.fa-th{
+  color: Dodgerblue;
+}
+
+.fa-chart-line{
+  color: Dodgerblue;
+}
+
+.fa-calculator{
+  color: Dodgerblue;
+}
+
+.fa-wifi{
+  color: Dodgerblue;
+}
+
+.fa-circle-notch{
+  color: Dodgerblue;
+}
+
+.fa-calendar-alt{
+  color: Dodgerblue;
+}
+
+.fa-book-open{
+  color: Dodgerblue;
+}
+
+.fa-chart-bar{
+  color: Dodgerblue;
+}
+
+.fa-bell{
+  color: Dodgerblue;
+}
+
+.fa-clipboard-list{
+  color: Dodgerblue;
+}
+
+.fa-dollar-sign{
+  color: Dodgerblue;
+}
+
+.fa-creative-commons-sampling-plus{
+  color: Dodgerblue;
+}
+
+.fa-safari{
+  color: Dodgerblue;
+}
